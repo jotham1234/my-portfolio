@@ -1,0 +1,1 @@
+My Name is jotham, This Website was to define who i am and what my profession or work
