@@ -1,0 +1,91 @@
+
+ul {
+    display: flex;
+    justify-content: flex-end;
+    list-style-type: none;
+}
+
+a {
+    margin: 20px;
+}
+
+img {
+    width: 200px;
+}
+
+#hero-container {
+    display: flex;
+    padding-left: 10px;
+    justify-content: space-evenly;
+    margin-bottom: 71px;
+}
+
+button {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 10px;
+}
+
+#profile-picture {
+    width: 243px;
+    height: 243px;
+    border-radius: 50%;
+}
+
+#description {
+    margin-right: 115px;
+    justify-content: center;
+}
+
+#main-container {
+    display: flex;
+    justify-content:center;
+    height: 20px;
+}
+
+.system {
+    padding: 25px;
+    border-radius: 4px;
+}
+
+.figma {
+    padding: 25px;
+    border-radius: 4px;
+}
+
+#post-heading {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.heading-parent {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 71px;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+header {
+    padding: 0 60px 0 60px;
+}
+
+section {
+    padding: 0 146px 0 146px;
+}
+
+h1 {
+    margin-bottom: 14px;
+}
+
+.first-p{
+    margin-bottom: 40px;
+}
+
+
+
+ 
