@@ -41,17 +41,19 @@ button {
 #main-container {
     display: flex;
     justify-content:center;
-    height: 20px;
 }
 
-.system {
+#system {
     padding: 25px;
     border-radius: 4px;
+    margin-right: 20px;
+    background-color: aqua;
 }
 
-.figma {
+#figma {
     padding: 25px;
     border-radius: 4px;
+    background-color: aquamarine;
 }
 
 #post-heading {
@@ -85,7 +87,10 @@ h1 {
 .first-p{
     margin-bottom: 40px;
 }
-
-
-
- 
+span {
+    margin: 0 26px 0 26px;
+}
+#line{
+    border-bottom: 1px solid gray;
+ margin: 15px 0 31px 0;
+}
